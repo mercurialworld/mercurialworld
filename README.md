@@ -5,8 +5,15 @@
 </p>
 
 <p align="center">
+  <img src="http://see.object.gay/u/uVFoZQ.gif"/>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="http://see.object.gay/u/uVFoZQ.gif"/>
-    <img src="https://skillicons.dev/icons?i=git,neovim,cs,rust,python,arch" />
+    <img src="https://skillicons.dev/icons?i=cs,python,rust,typescript,bots,tauri" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim,vscode,ps,linux,docker,aws" />
   </a>
 </p>
