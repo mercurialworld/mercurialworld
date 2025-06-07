@@ -8,6 +8,9 @@
   <img src="http://see.object.gay/u/uVFoZQ.gif"/>
 </p>
 <p align="center">
+  <a href="https://www.tumblr.com/poqu/738358515490603008/piplup-and-torchic-setting-out-in-the-new-year">icon source</a>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,python,rust,typescript,bots,tauri" />
   </a>
