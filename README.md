@@ -8,7 +8,7 @@
   <img alt="A Piplup." src="http://see.object.gay/u/uVFoZQ.gif"/>
 </p>
 <p align="center">
-  <a href="https://www.tumblr.com/elencale/774865578734256128/an-angry-little-penguin">icon source</a>
+  <a href="https://x.com/prj_pochama/status/1526080002843975683">icon source</a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
