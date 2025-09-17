@@ -8,7 +8,7 @@
   <img alt="A Piplup." src="http://see.object.gay/u/uVFoZQ.gif"/>
 </p>
 <p align="center">
-  <a href="https://x.com/prj_pochama/status/1526080002843975683">icon source</a>
+  slowly moving to <a href="https://git.gay/imaginaldisk">git.gay</a>, this is here because everyone uses github
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
