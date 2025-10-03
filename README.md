@@ -8,6 +8,9 @@
   <img alt="A Piplup." src="http://see.object.gay/u/uVFoZQ.gif"/>
 </p>
 <p align="center">
+  rhythm gamer, twitch affiliate, nixos enthusiast, partial support for an app i have since uninstalled
+</p>
+<p align="center">
   slowly moving to <a href="https://git.gay/imaginaldisk">git.gay</a>, this is here because everyone uses github
 </p>
 <p align="center">
