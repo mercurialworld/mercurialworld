@@ -8,13 +8,13 @@
   <img alt="A Piplup." src="http://see.object.gay/u/uVFoZQ.gif"/>
 </p>
 <p align="center">
-  rhythm gamer, twitch affiliate, nixos enthusiast, partial support for an app i have since uninstalled
+  rhythm gamer, twitch affiliate, linux user
 </p>
 <p align="center">
-  slowly moving to <a href="https://git.gay/imaginaldisk">git.gay</a>, this is here because everyone uses github
+  also on <a href="https://git.gay/imaginaldisk">git.gay</a>, a forgejo instance
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="A list of technologies I have worked with. There are too many." src="https://skillicons.dev/icons?i=aws,bun,cs,deno,discord,docker,git,linux,neovim,py,rust,ts,vite,vscode,windows" />
+    <img alt="A list of technologies I have worked with. From left to right: AWS, Bun, C#, Deno, Discord, Docker, Git, Linux, Neovim, Python, React, Rust, TypeScript, Vim, Vite, VSCode, Windows, and Unity." src="https://skillicons.dev/icons?i=aws,bun,cs,deno,discord,docker,git,linux,neovim,py,react,rust,ts,vim,vite,vscode,windows,unity&perline=9" />
   </a>
 </p>
